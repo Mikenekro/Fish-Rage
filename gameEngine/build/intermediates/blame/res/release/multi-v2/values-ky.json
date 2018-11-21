@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\res\\merged\\release\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MikeGlidden\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7c0ca591c4c57147099aa5600b94b634\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MikeGlidden\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7c0ca591c4c57147099aa5600b94b634\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

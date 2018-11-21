@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu_engine.xml.flat",
+        "source": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\bundles\\debug\\res\\menu\\engine.xml"
+    },
+    {
+        "merged": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_engine.xml.flat",
+        "source": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_engine.xml"
+    },
+    {
+        "merged": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "G:\\Class\\Android Assignments\\Fish Rage Final\\FishRage\\gameEngine\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    }
+]

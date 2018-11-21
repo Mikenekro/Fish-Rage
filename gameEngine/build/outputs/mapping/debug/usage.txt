@@ -1,0 +1,15 @@
+app.pearson.gameengine.BuildConfig
+app.pearson.gameengine.Button
+app.pearson.gameengine.Button$State
+app.pearson.gameengine.Engine
+app.pearson.gameengine.Engine$FontStyles
+app.pearson.gameengine.Engine$ScreenModes
+app.pearson.gameengine.GUI
+app.pearson.gameengine.MovementDir
+app.pearson.gameengine.PCharacter
+app.pearson.gameengine.PCharacter$LastWall
+app.pearson.gameengine.Sprite
+app.pearson.gameengine.TextPrinter
+app.pearson.gameengine.Texture
+app.pearson.gameengine.Timer
+app.pearson.gameengine.Vector2
